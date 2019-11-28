@@ -5,3 +5,4 @@
 * paskelbti, kad Scala yra nacionalinė Lietuvos programavimo kalba
 * 2x apmokėjimas ir cocacola už legacy kodo debuginimą
 * pagaliau išspręsti tabs-vs-spaces klausimą
+* Programuotojui žinoti kur eina IT
